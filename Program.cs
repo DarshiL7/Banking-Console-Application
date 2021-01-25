@@ -12,7 +12,7 @@ namespace BankingApplication
             openAccount.AddNewUser();
             openAccount.Validate();
         repeate:
-            Console.WriteLine("Hello welcome");
+            
             Console.WriteLine("Enter Choice From Bellow");
             Console.WriteLine("1-Deposit Money");
             Console.WriteLine("2-Withdraw Money");
